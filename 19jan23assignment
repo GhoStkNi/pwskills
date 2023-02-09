@@ -1,0 +1,12 @@
+1)Why do we start learning a programming language with “Hello World!?
+->Hello World program is used to show basic syntax of the programming language to a beginner. It is a way of saying hello to  world of programming .
+2)What is the use  of comments and how do you write comments in HTML?
+->comments in a programming language improve the readability of code. Comments are not displayed by browser on the screen it is useful for developers only. HTML comments are written between <!--  comments-->
+3)What are elements  tags and attributs and the  difference  between them?
+->Tags->HTML tags are special words that tells browser how to format and display content. Tags are surrounded by angle brackets.
+Attribute->attributes are special word that add additional information about elements. 
+Elements->HTML element is defined by everything starting from opening tag dome content and closing tag.there are two types of element first is block level element and second is inline level element. Block level element cover entire width of screen while inline level element covers only space that it actually occupy.
+4)Briefly explain what HTML  entities  are.
+->HTML entities are used to display special symbols that are nor present on keyboard.you have just write piece of text between ampersand & and semicolon ;
+
+ 
