@@ -1,0 +1,12 @@
+1)What is HTML?
+->HTML stands for Hyper Text Markup Language.it is markup language not a programming language .with the help of HTML we can create structure of a web page.
+2)What is CSS?
+->CSS stands for Cascading Style Sheets.css is useful for designing and positioning of html elements.
+3)why did javascript came into picture?
+->Javascript develop to add interactivity in a webpage and make it responsive.
+4)History of Javascript and EcmaScript?
+->JavaScript was invented by Brendan Eich for Netscape web browser. Before Javascript websites are mostly static and there was demand to overcome this limitation after that Brendan Eich develop Javascript
+to make web pages interactive and responsive. Javascript originally called Mocha later it become livescript and finally it become Javascript.
+
+ECMASCRIPT-> AFTER Netscape developed Javascript Microsoft and several other browser companies developed their own version of Javascript that created huge problems for developers as  code that work fine on one browser failed on another one.after some times all vendor agreed to use same Javascript for their browsers. 
+As a result Netscape submitted Javascript to ECMA(European Computer Manufacturers Associations) for standardization and further development of Javascript.since Javascript is standardized by ECMA so it was officially called ECMASCRIPT. 
