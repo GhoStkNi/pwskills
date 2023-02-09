@@ -1,0 +1,10 @@
+1)What is the internet?
+->Internet is the network of networks.Internet connects global network of computers and servers together so that they can share data and information. 
+2)What is web browser?
+->Web browser is an application that is used to access information over word wide web. Ex-Google Chrome,Firefox,Safari etc. 
+3)What is browser engine?
+->Browser engine is main component of web browser.rendering engine renders pages and the browser engine handles comms between the rendering engine and the browser user interface.
+4)What is  a static site?
+->Static website doesn't change content dynamically. It deliver same content whenever anyone visit.it can be created with html,css only .it load faster.
+5)What is dynamic site?
+-> Dynamic website displays different content every time a user visit it. Dynamic website is more interactive than static website. dynamic website develop using client side as well as server side scripting languages.
