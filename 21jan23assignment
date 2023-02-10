@@ -1,0 +1,14 @@
+1)What are inline and block level elements?
+->block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+a block-level element always takes up the full width available.
+An inline element does not start on a new line.An inline element only takes up as much width as necessary.
+2)How to work with image in html?
+-><img> tag is used to embed an image in an HTML page. Images are not technically inserted into a web page; images are linked to web pages.<img> tag is used to embed an image in the browser. 
+<img src="image.jpg" alt="fruit" width="500" height="500"> here alt attribute will only display it's text when image is not able to display for any reason. 
+3)How to create list in HTML?
+->List is a collection of similar types of items.list os of three types.1)ordered  lost 2)unordered list 3)description list
+a)Ordered List can be numeric or alphabetical or roman number.ordered list made with <ol> tag and list item mark up <li>tag.
+b)unordered list made with <ul> tag and each item is mark with<li> tag.list items will be marked with bullets (small black circles) by default.  unordered can be disc,circle,square,none. It can be changed with type attribute within <ul> tag.
+c)Description list is defined by <dl> tag.In <dl> tag we have description terms it is represented as <dt> tag.<dd> tag defines data definition.
+4)How to interlink webpages?
+->IN order to interlink web pages we use anchor tag<a>.within anchor tag we use href attribute which specify destination address.
